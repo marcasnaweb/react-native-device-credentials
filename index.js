@@ -1,5 +1,3 @@
-import { NativeModules } from 'react-native';
-
-const { DeviceCredentials } = NativeModules;
+import { DeviceCredentials } from './src';
 
 export default DeviceCredentials;
