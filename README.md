@@ -2,11 +2,11 @@
 
 ## Getting started
 
-`$ npm install react-native-device-credentials --save`
+`$ npm install @marcasnaweb/react-native-device-credentials --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-device-credentials`
+`$ react-native link @marcasnaweb/react-native-device-credentials`
 
 ### Manual installation
 
