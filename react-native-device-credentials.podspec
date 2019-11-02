@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/marcasnaweb/react-native-device-credentials"
   s.license      = "MIT"
-  # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.authors      = { "Your Name" => "yourname@email.com" }
-  s.platforms    = { :ios => "9.0", :tvos => "10.0" }
+  s.license    = { :type => "MIT", :file => "LICENSE" }
+  s.authors      = { "Bruno Almeida" => "bruno@marcasnaweb.com.br" }
+  s.platforms    = { :ios => "11.3" }
   s.source       = { :git => "https://github.com/marcasnaweb/react-native-device-credentials.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,swift}"
